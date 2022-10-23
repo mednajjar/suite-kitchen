@@ -1,0 +1,20 @@
+{
+  "name": "suite-kitchen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mednajjar/suite-kitchen.git"
+  },
+  "keywords": [],
+  "author": "Mohammed Najjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mednajjar/suite-kitchen/issues"
+  },
+  "homepage": "https://github.com/mednajjar/suite-kitchen#readme"
+}
