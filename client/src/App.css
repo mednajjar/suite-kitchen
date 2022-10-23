@@ -2,11 +2,11 @@
   text-align: center;
   margin: 2%;
   padding: 1%;
-  background: #171818;
+  box-shadow: 2px 2px 12px 1px #000000;
 }
 
 .App-logo {
-  height: 12vmin;
+  height: 18vmin;
   pointer-events: none;
 }
 

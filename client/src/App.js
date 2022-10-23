@@ -88,18 +88,19 @@ function App() {
       </Grid>
       <div className='App'>
 
-        <h2 style={{ color: "#ffffff" }}>
+        <h2>
           تصميم و تركيب المطابخ العصرية لذى سويت كتشن
         </h2>
         <a
           className="App-link"
-          href="https://wa.link/t0ys0v"
+          href="https://wa.me/22230411047"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img src={wtsap} alt="logo" />
         </a>
-        <p style={{ color: "#ffffff" }}>All Rights Reserved © 2022</p>
+        <p>+222 30 41 10 47</p>
+        <p>All Rights Reserved © 2022</p>
       </div>
 
 
